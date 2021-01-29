@@ -25,4 +25,9 @@ apk add             \
   glib-dev          \
   fontconfig-dev    \
   libjpeg-turbo-dev \
+  openjpeg-dev      \
+  boost-dev         \
+  gtk+3.0-dev       \
+  gdk-pixbuf-dev    \
+  poppler-data      \
   libxml2-dev
