@@ -26,6 +26,7 @@ apk add             \
   fontconfig-dev    \
   libjpeg-turbo-dev \
   openjpeg-dev      \
+  openjpeg-tools    \
   boost-dev         \
   gtk+3.0-dev       \
   gdk-pixbuf-dev    \
