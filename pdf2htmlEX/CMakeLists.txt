@@ -106,6 +106,7 @@ set(PDF2HTMLEX_LIBS ${PDF2HTMLEX_LIBS}
   -pthread
   -lz
   -lm
+  -lopenjpeg-tools
 )
 
 # debug build flags (overwrite default cmake debug flags)
